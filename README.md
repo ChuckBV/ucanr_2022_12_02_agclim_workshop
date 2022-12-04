@@ -9,3 +9,6 @@ of the UCANR Informatics and GIS Program (https://igis.ucanr.edu/) on
 packages developed by UCANR IGIS in an R/Studio workflow. RStudio was recently 
 renamed Posit, and the workshop was conducted using Posit cloud. 
 See agclim_nb01.nb.html for a further description.
+
+***Note to Self*** If necessary, look for a clean zipped copy saved at 
+"agclim_rproject_2022_11_02.zip" on USDA-OneDrive and on personal Google Drive.

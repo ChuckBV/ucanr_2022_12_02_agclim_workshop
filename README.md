@@ -12,3 +12,8 @@ See agclim_nb01.nb.html for a further description.
 
 ***Note to Self*** If necessary, look for a clean zipped copy saved at 
 "agclim_rproject_2022_11_02.zip" on USDA-OneDrive and on personal Google Drive.
+
+## Links
+ - Slides: https://ucanr-igis.github.io/agroclimR/
+ - RStudio project: https://posit.cloud/content/5055980
+ - GitHub repo: https://github.com/UCANR-IGIS/agroclimR 
